@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "title": "new year",
+      "description": "",
+      "date": "2023-12-31",
+      "time": "",
+      "id": 4,
+      "updatedAt": "19-11-2023 17:37"
+    },
+    {
+      "title": "Meeting",
+      "description": "",
+      "date": "2023-11-19T22:00:00.000Z",
+      "time": "",
+      "createdAt": "19-11-2023 17:38",
+      "id": 5
+    }
+  ]
+}
